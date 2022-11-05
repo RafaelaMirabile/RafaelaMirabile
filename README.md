@@ -46,8 +46,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ## Stats
----
-
 <a href="https://github.com/RafaelaMirabile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMirabile&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMirabile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
