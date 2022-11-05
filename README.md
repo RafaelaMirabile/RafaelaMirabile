@@ -12,7 +12,7 @@
 ---
 
 ### <img width="26" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s"> Fun Facts
-- My **first contact** with **programming** was as a freshman student in **Environmental engineering** at Universidade Federal do Paraná (UFPR) in a scientific initiative to optimize the cell counting process.
+- My **first contact** with **programming** was as a freshman student in **Environmental engineering** at Universidade Federal do Paraná (UFPR) in a scientific initiative to optimize cell counting process.
 - I have tried my hands at **enviromental engineering**, but ultimately I felt like it didn't give me the **freedom** I so much enjoyed having while building an app from the ground up.
 - Some of my **hobbies** include surfing, reading and exploring the world with my dog.
 
