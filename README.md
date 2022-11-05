@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F77218&width=435&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
+![6042470](https://user-images.githubusercontent.com/102774311/200139389-7e66be9f-12a9-4f72-8aa1-926759dcce23.jpg)
 
 <img width="320" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif?cid=82a1493b79yakaif0ltbc3fncmg8ezyqiir5vekh5lagkjvt&rid=200w.gif&ct=g">
 
