@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F77218&width=435&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=F77218&width=435&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
 
 ![Meu projeto (3)](https://user-images.githubusercontent.com/102774311/200140453-2bc8201f-654d-4e1f-814b-ce7b554a9c89.jpg)
 
