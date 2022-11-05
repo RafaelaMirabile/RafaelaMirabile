@@ -5,8 +5,7 @@
 
 # 👋 <samp> Hi there,I'm Rafaela!  </samp>
 
--✨ 23 yo
-- ✍ You can find my projects [here](https://github.com/RafaelaMirabile?tab=repositories).
+- ✨ 23 yo
 - ✍ You can find my projects [here](https://github.com/RafaelaMirabile?tab=repositories).
 
 ### <samp> I'm a student at **Driven Education** bootcamp and aspiring **software developer** 🖥️ I enjoy learning new concepts and applying them to solve coding problems 🎲 </samp>
