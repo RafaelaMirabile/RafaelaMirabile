@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ------------------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F77218&width=455&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F77218&width=455&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
 
 <img width="350" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif?cid=82a1493b79yakaif0ltbc3fncmg8ezyqiir5vekh5lagkjvt&rid=200w.gif&ct=g">
 
