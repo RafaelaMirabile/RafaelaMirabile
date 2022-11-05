@@ -2,7 +2,7 @@
 
 ![Meu projeto (2)](https://user-images.githubusercontent.com/102774311/200140272-c5725144-5f39-4978-9701-0f43ac9253bf.jpg)
 
-### 👋 <h6> Hi there,I'm Rafaela!  </h6>
+### <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> <samp> Hi there, I'm Rafaela! </samp>
 
 - ✨ 23 yo
 - ✍ You can find my projects [here](https://github.com/RafaelaMirabile?tab=repositories).
