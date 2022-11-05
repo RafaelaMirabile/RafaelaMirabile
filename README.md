@@ -45,7 +45,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-## Stats
+## <img width="26" src ="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/200w.webp?cid=790b7611lxb7nnp4aqvgycb6o4olthbhsaxi4ctxknvml3wz&rid=200w.webp&ct=s" > Stats
 <a href="https://github.com/RafaelaMirabile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMirabile&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMirabile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
