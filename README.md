@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F77218&width=435&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
 
-![Meu projeto (2)](https://user-images.githubusercontent.com/102774311/200140272-c5725144-5f39-4978-9701-0f43ac9253bf.jpg)
+![Meu projeto (3)](https://user-images.githubusercontent.com/102774311/200140453-2bc8201f-654d-4e1f-814b-ce7b554a9c89.jpg)
 
 ### <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> <samp> Hi there, I'm Rafaela! </samp>
 
