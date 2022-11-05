@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 ------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F77218&width=435&lines=Hello+World!;Have+a+great+day!;%C2%A1Que+te+vaya+bien!;Bonne+journ%C3%A9e!;Buona+giornata!)](https://git.io/typing-svg)
 
-<img width="500" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif?cid=82a1493b79yakaif0ltbc3fncmg8ezyqiir5vekh5lagkjvt&rid=200w.gif&ct=g">
+###<img width="450" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif?cid=82a1493b79yakaif0ltbc3fncmg8ezyqiir5vekh5lagkjvt&rid=200w.gif&ct=g">
+
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> <samp> Hi there, I'm Rafa! </samp>
