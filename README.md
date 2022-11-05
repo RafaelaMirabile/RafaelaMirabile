@@ -3,7 +3,8 @@
 
 <img width="300" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif?cid=82a1493b79yakaif0ltbc3fncmg8ezyqiir5vekh5lagkjvt&rid=200w.gif&ct=g">
 
-# 👋 <samp> Hi there!My name is Rafaela, I'm 23 yo✨ </samp>
+# 👋 <samp> Hi there,I'm Rafaela!  </samp>
+-✨ 23 yo
 - ✍ You can find my projects [here](https://github.com/RafaelaMirabile?tab=repositories).
 
 ### <samp> I'm a student at **Driven Education** bootcamp and aspiring **software developer** 🖥️ I enjoy learning new concepts and applying them to solve coding problems 🎲 </samp>
