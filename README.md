@@ -3,7 +3,7 @@
 
 <img width="320" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif?cid=82a1493b79yakaif0ltbc3fncmg8ezyqiir5vekh5lagkjvt&rid=200w.gif&ct=g">
 
-# 👋 <samp> Hi there,I'm Rafaela!  </samp>
+### 👋 <samp> Hi there,I'm Rafaela!  </samp>
 
 - ✨ 23 yo
 - ✍ You can find my projects [here](https://github.com/RafaelaMirabile?tab=repositories).
@@ -18,7 +18,7 @@
 - Some of my **hobbies** include surfing, reading and exploring the world with my dog.
 
 ---
-## <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Languages & Tools
+### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Languages & Tools
 
 #### Front-end:
 
@@ -47,7 +47,7 @@
 
 ---
 
-## <img width="26" src ="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/200w.webp?cid=790b7611lxb7nnp4aqvgycb6o4olthbhsaxi4ctxknvml3wz&rid=200w.webp&ct=s" > Stats
+### <img width="26" src ="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/200w.webp?cid=790b7611lxb7nnp4aqvgycb6o4olthbhsaxi4ctxknvml3wz&rid=200w.webp&ct=s" > Stats
 <a href="https://github.com/RafaelaMirabile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMirabile&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMirabile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
